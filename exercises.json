@@ -849,7 +849,7 @@
     "id": 95,
     "frame": 118,
     "pdf_page": 156,
-    "fen": "1r5k/6p1/1r2B2Q/1ppP4/3b1R2/8/6PP/2Q2RQK b - - 0 1",
+    "fen": "1r5k/6p1/1r2B3/1ppP4/3b1R2/8/6PP/5R1K b - - 0 1",
     "prompt": "White can mate tn this position: White can mate White can't mate If there is a mate, show it.",
     "board_img": "book_output/boards/page_156_frame_118.png",
     "ans_img": "book_output/answers/page_156_frame_118_ans.png"
@@ -867,7 +867,7 @@
     "id": 97,
     "frame": 120,
     "pdf_page": 158,
-    "fen": "r4Q1k/p1pq1p1r/1p2pQ1Q/4P3/3P3P/5P2/PPP2P1Q/2K1Q1R1 b - - 0 1",
+    "fen": "r6k/p1pq1p1r/1p2p2Q/8/3P3P/5P2/PPP2P2/2K3R1 b - - 0 1",
     "prompt": "From one of my recent games In this position: White can mate White can't mate It there is a mate, show it!",
     "board_img": "book_output/boards/page_158_frame_120.png",
     "ans_img": "book_output/answers/page_158_frame_120_ans.png"
@@ -885,7 +885,7 @@
     "id": 99,
     "frame": 122,
     "pdf_page": 160,
-    "fen": "2r2rk1/4Q1pp/2pB3q/2P1QQN1/8/6PP/4q3/5R1K w - - 0 1",
+    "fen": "2r2rk1/6pp/2pB3q/2P2QN1/8/6PP/4n3/5R1K w - - 0 1",
     "prompt": "White can mate In this position: White can mate White can't mate If there is a mate, show it.",
     "board_img": "book_output/boards/page_160_frame_122.png",
     "ans_img": "book_output/answers/page_160_frame_122_ans.png"
@@ -903,7 +903,7 @@
     "id": 101,
     "frame": 125,
     "pdf_page": 167,
-    "fen": "1k3rr1/ppp5/4pQ2/4P1Qp/2P3q1/8/PP1Q2PB/3R1RK1 w - - 0 1",
+    "fen": "1k3rr1/ppp5/4p2n/4P2p/2P3q1/8/PP1Q2PB/3R1RK1 w - - 0 1",
     "prompt": "NO ANSWER REQUIRED In this position White can begin a back-rank mating combination by first removing one of the Black defend- ers. Draw an arrow to show the first move in White's mat- ing sequence:",
     "board_img": "book_output/boards/page_167_frame_125.png",
     "ans_img": "book_output/answers/page_167_frame_125_ans.png"
@@ -921,7 +921,7 @@
     "id": 103,
     "frame": 127,
     "pdf_page": 169,
-    "fen": "1k3rrQ/ppp2pq1/4p3/4Pp1p/2P5/5p2/PP1Q2PB/3RQRK1 w - - 0 1",
+    "fen": "1k3rr1/ppp3q1/4p2n/4P2p/2P5/8/PP1Q2PB/3R1RK1 w - - 0 1",
     "prompt": "If Black recaptures with the right piece, it will still be two against two. If White plays Rook-takes-Rook-check (as shown), how can Black save himself? by playing Rook-takes-Rook by playing Queen-takes-Rook",
     "board_img": "book_output/boards/page_169_frame_127.png",
     "ans_img": "book_output/answers/page_169_frame_127_ans.png"
@@ -930,7 +930,7 @@
     "id": 104,
     "frame": 128,
     "pdf_page": 170,
-    "fen": "3r1Q1k/6pp/1p5Q/2p3QP/2Pq1Q1n/8/2P3P1/5R1K b - - 0 1",
+    "fen": "3r3k/6pp/1p6/2p3QP/2Pq4/8/2P3P1/5R1K b - - 0 1",
     "prompt": "(So will still be two against two.) In this position, does a White move of Queen-takes- Rook-check (as shown) lead to mate? yes",
     "board_img": "book_output/boards/page_170_frame_128.png",
     "ans_img": "book_output/answers/page_170_frame_128_ans.png"
@@ -957,7 +957,7 @@
     "id": 107,
     "frame": 131,
     "pdf_page": 173,
-    "fen": "3r2k1/pp3ppp/1b1Q4/3p4/7q/2PP4/PP3PPP/Q3RRK1 w - - 0 1",
+    "fen": "3r2k1/pp3ppp/1b1Q4/3p4/5n1q/2PP4/PP3PPP/Q3RRK1 w - - 0 1",
     "prompt": "Black's Queen can capture and replace the Rook as a guard of the back rank.) Does a White move of Queen-captures-Rook lead to mate? yes",
     "board_img": "book_output/boards/page_173_frame_131.png",
     "ans_img": "book_output/answers/page_173_frame_131_ans.png"
@@ -975,7 +975,7 @@
     "id": 109,
     "frame": 133,
     "pdf_page": 175,
-    "fen": "1r1r2kQ/6pp/2q4q/2p1p2Q/pp2N2P/5P2/PPPR2P1/1K1R4 b - - 0 1",
+    "fen": "1r1r2k1/6pp/2q4q/2p1p2Q/pp2N2P/5P2/PPPR2P1/1K1R4 b - - 0 1",
     "prompt": "yes (White will play Queen-check on Black's back rank after Black recaptures.) Here's a hard one: If White plays Rook-takes-Rook-check, can he mate? yes",
     "board_img": "book_output/boards/page_175_frame_133.png",
     "ans_img": "book_output/answers/page_175_frame_133_ans.png"
@@ -984,7 +984,7 @@
     "id": 110,
     "frame": 134,
     "pdf_page": 176,
-    "fen": "qr4k1/3P1ppp/8/4Q1Q1/8/1r6/5PPP/4R1K1 w - - 0 1",
+    "fen": "qr4k1/3P1ppp/8/4Q3/8/1r6/5PPP/4R1K1 w - - 0 1",
     "prompt": "(The mate is finally delivered by the White Queen. Work it out.) Sometimes, you have the choice of making a straight back-rank check or of capturing a defender. Observe the position below; then, draw an arrow to show the key first move in White's mating combination:",
     "board_img": "book_output/boards/page_176_frame_134.png",
     "ans_img": "book_output/answers/page_176_frame_134_ans.png"
@@ -993,7 +993,7 @@
     "id": 111,
     "frame": 136,
     "pdf_page": 177,
-    "fen": "qr4k1/3P1ppp/3Q4/8/r7/Q1Q5/1Q3PPP/Q1Q1R1K1 w - - 0 1",
+    "fen": "qr4k1/3P1ppp/3Q4/8/r7/8/5PPP/4R1K1 w - - 0 1",
     "prompt": "tains Black's after Black recaptures with his Rook.) Again, draw an arrow to show White's key first move: i\\HI mm.IB t I s",
     "board_img": "book_output/boards/page_177_frame_136.png",
     "ans_img": "book_output/answers/page_177_frame_136_ans.png"
@@ -1002,7 +1002,7 @@
     "id": 112,
     "frame": 137,
     "pdf_page": 179,
-    "fen": "5rk1/3q1ppp/p1NQ1QrQ/1pQpQ3/1Q1P1Q1Q/P1Q1n1N1/1P1QRPPP/Q1Q1R1K1 w - - 0 1",
+    "fen": "5rk1/3q1ppp/p1N3r1/1pQp4/3P4/P3n1N1/1P2RPPP/4R1K1 w - - 0 1",
     "prompt": "not iead to mate? White does not have enough power. At the end of White's combination, Black has a useful interposition. At the end of White's combination, Black has a flight square.",
     "board_img": "book_output/boards/page_179_frame_137.png",
     "ans_img": "book_output/answers/page_179_frame_137_ans.png"
@@ -1011,7 +1011,7 @@
     "id": 113,
     "frame": 138,
     "pdf_page": 180,
-    "fen": "5rkQ/1p3ppp/q1pQ4/8/8/8/1PP2PPP/2QR2K1 b - - 0 1",
+    "fen": "5rk1/1p3ppp/q1pQ4/8/8/8/1PP2PPP/3R2K1 b - - 0 1",
     "prompt": "not lead to mate? White does not have enough power. At the end of White's combination, Black has a useful interposition. At the end of White's combination, Black has a flight square.",
     "board_img": "book_output/boards/page_180_frame_138.png",
     "ans_img": "book_output/answers/page_180_frame_138_ans.png"
@@ -1020,7 +1020,7 @@
     "id": 114,
     "frame": 139,
     "pdf_page": 181,
-    "fen": "2r3k1/5ppp/1pp5/p6p/Pbp5/1P6/2Q2PPP/4R1K1 w - - 0 1",
+    "fen": "2r3k1/5ppp/1p1n4/p6n/Pb6/1P6/2Q2PPP/4R1K1 w - - 0 1",
     "prompt": "not lead to mate? White does not have enough power. At the end of White's combination, Black has a useful interposition. At the end of White's combination, Black has a flight square.",
     "board_img": "book_output/boards/page_181_frame_139.png",
     "ans_img": "book_output/answers/page_181_frame_139_ans.png"
@@ -1038,7 +1038,7 @@
     "id": 116,
     "frame": 141,
     "pdf_page": 183,
-    "fen": "4R1rk/5p1p/5PpQ/6r1/8/8/5nPP/Q1Q1R2K w - - 0 1",
+    "fen": "4R1rk/5p1p/5PpQ/6r1/8/8/5nPP/4R2K w - - 0 1",
     "prompt": "some problems for the defender. White is threatening to play Rook-takes-Rook, followed by mate. It's Black's move. Surprisingly enough, he has only one good defense: Rook takes Rook, as shown Pawn advances one or two squares, as shown",
     "board_img": "book_output/boards/page_183_frame_141.png",
     "ans_img": "book_output/answers/page_183_frame_141_ans.png"
@@ -1047,7 +1047,7 @@
     "id": 117,
     "frame": 142,
     "pdf_page": 184,
-    "fen": "1kr2r2/p1pQ4/1pP1Q3/1P5p/5qpP/7P/3QRPPQ/n1n1R1K1 w - - 0 1",
+    "fen": "1kr2r2/p1p5/1pP1Q3/1P5p/5qp1/7P/4RPP1/4R1K1 w - - 0 1",
     "prompt": "fleeing square is Black's dnly defense.) Suppose that White plays Queen-takes-Rook-check (as shown). Black's only saving move is to recapture with: his King his Rook",
     "board_img": "book_output/boards/page_184_frame_142.png",
     "ans_img": "book_output/answers/page_184_frame_142_ans.png"
@@ -1056,7 +1056,7 @@
     "id": 118,
     "frame": 144,
     "pdf_page": 187,
-    "fen": "r1Q4k/p5pp/1p2p2r/3p1p1q/3Pq2Q/1P2P1P1/P2n1PBP/2R1QRK1 b - - 0 1",
+    "fen": "r1Q4k/p5pp/1p2p2r/3p1p1q/3Pn3/1P2P1P1/P4PBP/2R2RK1 b - - 0 1",
     "prompt": "NO ANSWER REQUIRED Draw an arrow to show how Black saves himself from checkmate:",
     "board_img": "book_output/boards/page_187_frame_144.png",
     "ans_img": "book_output/answers/page_187_frame_144_ans.png"
@@ -1065,7 +1065,7 @@
     "id": 119,
     "frame": 146,
     "pdf_page": 188,
-    "fen": "r1Q4k/1p4pp/1pr5/8/P4R2/8/6PP/4QR1K b - - 0 1",
+    "fen": "r1Q4k/1p4pp/1pr5/8/P4R2/8/6PP/5R1K b - - 0 1",
     "prompt": "Draw an arrow to show Black's correct defense: FOR THE CORRECT ANSWER TO FRAME 146, TURN THE PAGE AND THEN TURN THE BOOK AROUND",
     "board_img": "book_output/boards/page_188_frame_146.png",
     "ans_img": "book_output/answers/page_188_frame_146_ans.png"
@@ -1074,7 +1074,7 @@
     "id": 120,
     "frame": 146,
     "pdf_page": 189,
-    "fen": "r1R4k/pp4pp/3r1p2/3pp3/3P4/P1Q1P1QP/1P1Q1PP1/Q1R3K1 b - - 0 1",
+    "fen": "r1R4k/pp4pp/3r1p2/3pp3/3P4/P3P2P/1P3PP1/2R3K1 b - - 0 1",
     "prompt": "(Capture by the other Rook would leave one defender of the back rank to two attackers.) Draw the usual arrow to show Black's saving shot:",
     "board_img": "book_output/boards/page_189_frame_146.png",
     "ans_img": "book_output/answers/page_189_frame_146_ans.png"
@@ -1083,7 +1083,7 @@
     "id": 121,
     "frame": 148,
     "pdf_page": 190,
-    "fen": "1r1R2k1/2b2pp1/7p/4Q3/1Q3Q2/Q1Q1Q1P1/2Bn1P1P/Q1n1R1K1 b - - 0 1",
+    "fen": "1r1R2k1/2b2pp1/7p/8/8/6P1/2B2P1P/4R1K1 b - - 0 1",
     "prompt": "This one is a little different Draw an arrow to show Black's correct defense:",
     "board_img": "book_output/boards/page_190_frame_148.png",
     "ans_img": "book_output/answers/page_190_frame_148_ans.png"
@@ -1092,7 +1092,7 @@
     "id": 122,
     "frame": 148,
     "pdf_page": 191,
-    "fen": "1kR1r3/ppp2p2/q1b2B2/8/4p3/P3P3/1PPR3Q/2KQ4 b - - 0 1",
+    "fen": "1kR1r3/ppp2p2/q1b2B2/8/4p3/P3P3/1PPR4/2KQ4 b - - 0 1",
     "prompt": "(The Rook capture protects the back rank.) Draw an arrow to show Slack's defense:",
     "board_img": "book_output/boards/page_191_frame_148.png",
     "ans_img": "book_output/answers/page_191_frame_148_ans.png"
@@ -1101,7 +1101,7 @@
     "id": 123,
     "frame": 149,
     "pdf_page": 192,
-    "fen": "2R3kQ/1pQ1Qpp1/7p/p2p4/3P3Q/5NPb/PP2rP1P/1B4K1 b - - 0 1",
+    "fen": "2R3k1/1p3pp1/7p/p2p4/1n1P4/5NPb/PP2rP1P/1B4K1 b - - 0 1",
     "prompt": "ii mtu m (The King capture would lead to mate after Rook checks.)",
     "board_img": "book_output/boards/page_192_frame_149.png",
     "ans_img": "book_output/answers/page_192_frame_149_ans.png"
@@ -1110,7 +1110,7 @@
     "id": 124,
     "frame": 150,
     "pdf_page": 193,
-    "fen": "5rk1/p1p2ppp/2B2p1Q/PP3b2/1QP5/3q2P1/5P1P/4R1K1 w - - 0 1",
+    "fen": "5rk1/p1p2ppp/2B2p2/PP3b2/1QP5/3q2P1/5P1P/4R1K1 w - - 0 1",
     "prompt": "Now you will be asked to decide whether or not White has one of the back-rank mating combinations you have learned. Can White force mate? yes If he can, draw an arrow to show his key first move.",
     "board_img": "book_output/boards/page_193_frame_150.png",
     "ans_img": "book_output/answers/page_193_frame_150_ans.png"
@@ -1128,7 +1128,7 @@
     "id": 126,
     "frame": 152,
     "pdf_page": 195,
-    "fen": "qr4k1/5pp1/7p/4Q3/q1p5/1r4P1/1P1QRP1P/1B2R1K1 w - - 0 1",
+    "fen": "qr4k1/5pp1/7p/4Q3/n1p5/1r4P1/1P2RP1P/1B2R1K1 w - - 0 1",
     "prompt": "White can't mate (After the Queen check, Black's Queen interposes.) Can White mate? yes If he can, show his key first move.",
     "board_img": "book_output/boards/page_195_frame_152.png",
     "ans_img": "book_output/answers/page_195_frame_152_ans.png"
@@ -1137,7 +1137,7 @@
     "id": 127,
     "frame": 153,
     "pdf_page": 196,
-    "fen": "1r1r2k1/1p3ppb/p1p4p/2P5/P6Q/1q6/4QPPP/B2RR1K1 w - - 0 1",
+    "fen": "1r1r2k1/1p3ppb/p1p4p/2P5/P7/1q6/4QPPP/B2RR1K1 w - - 0 1",
     "prompt": "In this position: White can mate White can't mate If he can mate, show his key first move.",
     "board_img": "book_output/boards/page_196_frame_153.png",
     "ans_img": "book_output/answers/page_196_frame_153_ans.png"
@@ -1146,7 +1146,7 @@
     "id": 128,
     "frame": 154,
     "pdf_page": 197,
-    "fen": "q5rk/2p3p1/5pPp/3Q4/4P2P/r7/PRP4Q/KR2Q3 w - - 0 1",
+    "fen": "q5rk/2p3p1/5pPp/3Qn3/4P2P/r7/PRP5/KR6 w - - 0 1",
     "prompt": "reply with a Queen check on the back rank.) In this position: White can mate White can't mate If he can, show his key first move.",
     "board_img": "book_output/boards/page_197_frame_154.png",
     "ans_img": "book_output/answers/page_197_frame_154_ans.png"
@@ -1155,7 +1155,7 @@
     "id": 129,
     "frame": 155,
     "pdf_page": 198,
-    "fen": "3r2kQ/pp3ppp/2q3q1/2pQ4/2P5/1P6/P5PP/2Q1R1K1 b - - 0 1",
+    "fen": "3r2k1/pp3ppp/2n3q1/2pQ4/2P5/1P6/P5PP/4R1K1 b - - 0 1",
     "prompt": "at the lower left— if Black captures with the Rook next to his King, White will have enough power to mate.) In this position: White can mate White can't mate If he can, show his first key move.",
     "board_img": "book_output/boards/page_198_frame_155.png",
     "ans_img": "book_output/answers/page_198_frame_155_ans.png"
@@ -1164,7 +1164,7 @@
     "id": 130,
     "frame": 156,
     "pdf_page": 199,
-    "fen": "1Q1QrQk1/Qp2Pppp/2b5/5q2/pp6/8/P4PPP/2R1R1K1 b - - 0 1",
+    "fen": "4r1k1/1p3ppp/2b5/5n2/pp6/8/P4PPP/2R1R1K1 b - - 0 1",
     "prompt": "White can mate . followed by Rook mates.) In this position: White can mate White can't mate If he can, show his key first move.",
     "board_img": "book_output/boards/page_199_frame_156.png",
     "ans_img": "book_output/answers/page_199_frame_156_ans.png"
@@ -1173,7 +1173,7 @@
     "id": 131,
     "frame": 157,
     "pdf_page": 200,
-    "fen": "4rQ1b/5RQ1/p5pQ/1p4P1/1P2p2Q/2P2P1k/1P3B2/5K2 b - - 0 1",
+    "fen": "4r2b/5R2/p5p1/1p4P1/1P2p3/2P2P1k/1P3B2/5K2 b - - 0 1",
     "prompt": "White can't mate Here's a back-rank mate sideways! Draw an arrow showing how White mates:",
     "board_img": "book_output/boards/page_200_frame_157.png",
     "ans_img": "book_output/answers/page_200_frame_157_ans.png"
@@ -1182,7 +1182,7 @@
     "id": 132,
     "frame": 159,
     "pdf_page": 205,
-    "fen": "6k1/1p1p1ppp/2q5/1p1p4/4b3/3p4/r4PPP/1R1R2K1 w - - 0 1",
+    "fen": "6k1/5ppp/2n5/8/4b3/8/r4PPP/1R1R2K1 w - - 0 1",
     "prompt": "NO ANSWER REQUIRED Which move should White make to begin a mating combination here? move A move B",
     "board_img": "book_output/boards/page_205_frame_159.png",
     "ans_img": "book_output/answers/page_205_frame_159_ans.png"
@@ -1191,7 +1191,7 @@
     "id": 133,
     "frame": 160,
     "pdf_page": 206,
-    "fen": "1k6/p1p2q1p/1p4r1/4b1pp/5p2/2P3P1/PPK2PBn/3R3R w - - 0 1",
+    "fen": "1k6/p1p2q2/1p4r1/4b1p1/5p2/2P3P1/PPK2PB1/3R3R w - - 0 1",
     "prompt": "(And<the remaining Rook will deliver the mate after the Knight captures.) Suppose the White Rook checks as shown. Black couid only save himself by capturing with his: Bishop Knight",
     "board_img": "book_output/boards/page_206_frame_160.png",
     "ans_img": "book_output/answers/page_206_frame_160_ans.png"
@@ -1200,7 +1200,7 @@
     "id": 134,
     "frame": 161,
     "pdf_page": 207,
-    "fen": "2r3k1/5ppp/4bQ2/3p2n1/8/8/5PPP/2R1R1K1 w - - 0 1",
+    "fen": "2r3k1/5ppp/4b3/3p2n1/8/8/5PPP/2R1R1K1 w - - 0 1",
     "prompt": "Bishop (Black must not allow his Knight to be drawn away.) A similar theme- Draw an arrow to show the first move in White's mat- ing combination:",
     "board_img": "book_output/boards/page_207_frame_161.png",
     "ans_img": "book_output/answers/page_207_frame_161_ans.png"
@@ -1209,7 +1209,7 @@
     "id": 135,
     "frame": 163,
     "pdf_page": 209,
-    "fen": "1k6/pp4p1/3b2q1/2pN2p1/P1P5/1P5R/4r1P1/4nRK1 w - - 0 1",
+    "fen": "1k6/pp4p1/3b2n1/2pN2p1/P1P5/1P5R/4r1P1/5RK1 w - - 0 1",
     "prompt": "If he can, draw an arrow to show White's key first move. (After White tries Queen check on the back rank, Black plays Queen-takes- Queen.)",
     "board_img": "book_output/boards/page_209_frame_163.png",
     "ans_img": "book_output/answers/page_209_frame_163_ans.png"
@@ -1218,7 +1218,7 @@
     "id": 136,
     "frame": 164,
     "pdf_page": 210,
-    "fen": "7k/Qp4pp/1pqQ3Q/q4p2/1QP2Q1P/bPQ2P2/1n1Q2P1/Q1QRQ2K w - - 0 1",
+    "fen": "7k/1p4pp/1pn5/q4p2/2P2Q1P/bP3P2/6P1/3R3K w - - 0 1",
     "prompt": "if Black's Knight is drawn away, Black's Bishop holds the position.) Can White mate by first drawing away a Black de- fender? yes If he can, draw an arrow to show his key first move.",
     "board_img": "book_output/boards/page_210_frame_164.png",
     "ans_img": "book_output/answers/page_210_frame_164_ans.png"
@@ -1227,7 +1227,7 @@
     "id": 137,
     "frame": 165,
     "pdf_page": 211,
-    "fen": "4r2k/6pp/p7/1pp5/3b4/5p2/B5PP/4RR1K w - - 0 1",
+    "fen": "4r2k/6pp/p4n2/1pp5/3b4/5p2/B5PP/4RR1K w - - 0 1",
     "prompt": "Can White mate here? yes If he can, draw an arrow to show White's key first move.",
     "board_img": "book_output/boards/page_211_frame_165.png",
     "ans_img": "book_output/answers/page_211_frame_165_ans.png"
